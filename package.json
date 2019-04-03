@@ -1,0 +1,25 @@
+{
+  "name": "postLunch",
+  "version": "1.0.0",
+  "description": "This is another testing repo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjoneil/postLunch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjoneil/postLunch/issues"
+  },
+  "homepage": "https://github.com/kjoneil/postLunch#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
